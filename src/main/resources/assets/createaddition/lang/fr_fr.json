@@ -17,9 +17,16 @@
 	"createaddition.tooltip.energy.passive": "Passif",
 	"createaddition.tooltip.energy.none": "Aucun",
 
-	"createaddition.tooltip.accumulator.info": "Infos de l'accumulateur :",
-	"createaddition.tooltip.relay.info": "Infos du relai :",
-	"createaddition.tooltip.connector.info": "Infos du connecteur :",
+	"createaddition.tooltip.liquid_burning.info": "Infos sur le brûleur à Blaze liquide :",
+	"createaddition.tooltip.liquid_burning.time_remaining": "Temps de combustion restant:",
+
+	"createaddition.tooltip.charging.info": "Infos sur la bobine Tesla:",
+	"createaddition.tooltip.charging.time_remaining": "Temps de charge restant :",
+	
+	"createaddition.tooltip.alternator.info": "Infos sur l'alternateur :",
+	"createaddition.tooltip.accumulator.info": "Infos sur l'accumulateur :",
+	"createaddition.tooltip.relay.info": "Infos sur le relai :",
+	"createaddition.tooltip.connector.info": "Infos sur le connecteur :",
 
 	"createaddition.recipe.rolling": "Laminage",
 	"createaddition.recipe.rolling.sequence": "Laminage séquencé",
@@ -312,8 +319,8 @@
 	"death.attack.barbed_wire": "%1$s a essayé de traverser des barbelés",
 	"death.attack.barbed_wire.player": "%1$s a essayé de traverser des barbelés en combattant %2$s",
 
-		"effect.createaddition.shocking":"Choqué",
-	"attack.death.createaddition.tesla_coil": %1$s a reçu un choc électrique mortelk",
+		"effect.createaddition.shocking": "Choqué",
+	"attack.death.createaddition.tesla_coil": "%1$s a reçu un choc électrique mortelk",
   	"attack.death.createaddition.tesla_coil.player": "%1$s a reçu un choc électrique mortel en combattant %2$s",
   	"effect.createaddition.shocking.description": "Réduit considérablement la vitesse de déplacement",
 
